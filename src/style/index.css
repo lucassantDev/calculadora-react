@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.div-result{
+    width: 80%;
+    height: 500px;
+    border: 1px solid red;
+}
