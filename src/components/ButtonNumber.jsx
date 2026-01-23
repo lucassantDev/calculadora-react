@@ -1,3 +1,6 @@
+import '../style/AllStyle.css'
+
+
 export default function ButtonNumber(props){
     return(
         <>
