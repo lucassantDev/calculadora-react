@@ -1,7 +1,9 @@
 import '../style/AllStyle.css'
 
 
-export default function ButtonNumber(props){
+export default function ButtonNumber(number, functionValue){
+
+
     return(
         <>
             <button className='button-number'>
